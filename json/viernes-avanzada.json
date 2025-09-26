@@ -134,5 +134,13 @@
     "integrantes": ["Javier Torres", "Andres Ceballos"],
     "actividad": "React Native",
     "url": ""
+  },
+  {
+    "nombreapp": "Rompecabezas",
+    "descripcion": "Una aplicacion para ordenar una imagen desordenada con 3 dificultades, Facil, Normal y Dificil.",
+    "icono": "https://cdn-icons-png.flaticon.com/512/5873/5873228.png",
+    "integrantes": ["Andrés Pedroza"],
+    "actividad": "WebView",
+    "url": "https://drive.google.com/drive/u/1/folders/1BbD56U7EmEMlmjwniEiUuY9D6fa9yv36"
   }
 ]
